@@ -6,7 +6,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-    - host: argocd.cloudiandevops.com
+    - host: argocd.sudomakecloud.live
       http:
         paths:
           - path: /
